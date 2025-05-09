@@ -1,0 +1,17 @@
+[
+    {
+        "name":"video1",
+        "description":"Demo video",
+        "path":"video1.mp4"
+    },
+    {
+        "name":"video2",
+        "description":"Demo video",
+        "path":"video2.mp4"
+    },
+    {
+        "name":"video3",
+        "description":"Demo video",
+        "path":"video3.mp4"
+    }
+]
